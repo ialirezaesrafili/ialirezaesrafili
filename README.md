@@ -1,94 +1,98 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E2A38&height=180&section=header&text=Alireza%20Esrafili&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:38BDF8&height=180&section=header&text=Alireza%20Esrafili&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" alt="Alireza Esrafili — Full-Stack Developer" />
-</picture>
+<img src="./assets/banner.svg" width="100%" alt="Alireza Esrafili — Full-Stack Developer" />
+
+<br/>
 
 <a href="https://github.com/ialirezaesrafili">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=0E75B6&center=true&vCenter=true&width=520&lines=React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+NestJS+%E2%80%A2+GraphQL;Building+scalable%2C+maintainable+products" alt="Focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=818CF8&center=true&vCenter=true&width=560&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+NestJS+%E2%80%A2+GraphQL;Turning+ideas+into+production-ready+products" alt="Typing intro" />
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/ialirezaesrafili/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aesi1050@gmail.com"><img src="https://img.shields.io/badge/Email-aesi1050%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/iamalirezaesrafili"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ialirezaesrafili&label=Profile%20views&color=0E75B6&style=flat-square" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/ialirezaesrafili/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=818CF8" alt="LinkedIn" /></a>
+  <a href="mailto:aesi1050@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=818CF8" alt="Email" /></a>
+  <a href="https://leetcode.com/iamalirezaesrafili"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=818CF8" alt="LeetCode" /></a>
+  <a href="https://github.com/ialirezaesrafili?tab=followers"><img src="https://img.shields.io/github/followers/ialirezaesrafili?style=for-the-badge&logo=github&logoColor=22D3EE&label=Followers&labelColor=0D1117&color=6366F1" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ialirezaesrafili&label=Views&color=6366F1&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
 
----
+## 👨‍💻 About Me
 
-## About
+I'm a full-stack developer who builds reliable, high-performance web and mobile applications — from clean, accessible interfaces to well-structured APIs and data layers. I turn complex requirements into simple, user-centred products and write code that stays easy to maintain as it grows.
 
-I'm a full-stack developer focused on building reliable, high-performance web and mobile applications — from clean, accessible interfaces to well-structured APIs and data layers. I enjoy turning complex requirements into simple, user-centred products and writing code that stays easy to maintain as it grows.
+- 🔭 **Currently** building modern web and mobile products with React, React Native and NestJS
+- 🌱 **Exploring** GraphQL, cloud-native architecture, Go and workflow automation
+- 🤝 **Open to** collaboration on open-source projects, SaaS products and freelance work
+- 📫 **Reach me** at [aesi1050@gmail.com](mailto:aesi1050@gmail.com)
 
-- **Currently** building modern web and mobile experiences with React, React Native and NestJS
-- **Exploring** GraphQL, cloud-native architecture and automation of development workflows
-- **Open to** collaboration on open-source projects, SaaS products and freelance work
-- **Reach me** at [aesi1050@gmail.com](mailto:aesi1050@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ialirezaesrafili/)
-
----
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td width="160"><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,figma&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Figma" /></td>
-  </tr>
-  <tr>
-    <td><strong>Mobile</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react&perline=8" alt="React Native" /> <sub>React Native</sub></td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,python&perline=8" alt="Node.js, Express, NestJS, GraphQL, Python" /></td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&perline=8" alt="MongoDB, PostgreSQL, MySQL, SQLite, Redis" /></td>
-  </tr>
-  <tr>
-    <td><strong>DevOps &amp; Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,linux,firebase,jest,postman&perline=8" alt="Docker, Git, Linux, Firebase, Jest, Postman" /></td>
-  </tr>
-</table>
-
----
-
-## GitHub Activity
+## 📌 Featured Projects
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ialirezaesrafili&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ialirezaesrafili&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0E75B6&icon_color=0E75B6" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ialirezaesrafili&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=38BDF8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialirezaesrafili&layout=compact&hide_border=true&langs_count=8&title_color=0E75B6" alt="Top languages" />
-</picture>
+<a href="https://github.com/ialirezaesrafili/grabbit"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ialirezaesrafili&repo=grabbit&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="grabbit" /></a>
+<a href="https://github.com/ialirezaesrafili/aalchemy"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ialirezaesrafili&repo=aalchemy&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="aalchemy" /></a>
+<a href="https://github.com/ialirezaesrafili/smart-ambulance-coap"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ialirezaesrafili&repo=smart-ambulance-coap&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="smart-ambulance-coap" /></a>
+<a href="https://github.com/ialirezaesrafili/web-crawling"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ialirezaesrafili&repo=web-crawling&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="web-crawling" /></a>
+<a href="https://github.com/ialirezaesrafili/leetcode"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ialirezaesrafili&repo=leetcode&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="leetcode" /></a>
+<a href="https://github.com/ialirezaesrafili/rock-scissors-paper"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ialirezaesrafili&repo=rock-scissors-paper&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="rock-scissors-paper" /></a>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ialirezaesrafili&hide_border=true&theme=github-dark-blue&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-  <img src="https://streak-stats.demolab.com?user=ialirezaesrafili&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub streak" />
-</picture>
+<a href="https://github.com/ialirezaesrafili?tab=repositories"><img src="https://img.shields.io/badge/View_all_repositories-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="All repositories" /></a>
 
 </div>
 
----
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="150"><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,figma&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Figma" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,python,go&theme=dark" alt="Node.js, Express, NestJS, GraphQL, Python, Go" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&theme=dark" alt="MongoDB, PostgreSQL, MySQL, SQLite, Redis" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps &amp; Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,linux,firebase,jest,postman&theme=dark" alt="Docker, Git, Linux, Firebase, Jest, Postman" /></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Mobile: React Native</sub></p>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=ialirezaesrafili&hide_border=true&border_radius=10&background=0D1117&stroke=30363D&ring=6366F1&fire=22D3EE&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Thanks for stopping by — feel free to reach out if you'd like to work together.**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ialirezaesrafili&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialirezaesrafili&layout=compact&langs_count=8&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Top languages" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E2A38,100:0E75B6&height=100&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0E75B6&height=100&section=footer" alt="" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ialirezaesrafili&bg_color=0D1117&color=C9D1D9&title_color=818CF8&line=6366F1&point=22D3EE&area=true&area_color=6366F1&hide_border=true&radius=10&custom_title=Contribution%20Graph" alt="Contribution graph" />
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ialirezaesrafili/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aesi1050@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/iamalirezaesrafili"><img src="https://img.shields.io/badge/LeetCode-6366F1?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://github.com/ialirezaesrafili"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by — feel free to reach out if you'd like to build something together.</sub>
 
 </div>
