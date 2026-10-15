@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Alireza Esrafili — Full-Stack Developer" />
-
-<br/>
+<h2>Welcome to Alireza Esrafili's profile 👋</h2>
 
 <a href="https://github.com/ialirezaesrafili">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=818CF8&center=true&vCenter=true&width=560&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+NestJS+%E2%80%A2+GraphQL;Turning+ideas+into+production-ready+products" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=818CF8&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+NestJS+%E2%80%A2+GraphQL;Turning+ideas+into+production-ready+products" alt="Typing intro" />
 </a>
 
 <p>
